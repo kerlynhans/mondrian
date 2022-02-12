@@ -1030,6 +1030,7 @@ nav .active-section span {
     text-align: center;
     right: 0px;
     padding: 0px 30px;
+    background-color: none;
   }
 
   .Modern-Slider .NextArrow {

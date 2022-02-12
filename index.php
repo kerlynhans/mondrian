@@ -1,28 +1,41 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!-- General -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>Apartamento en arriendo - Bogotá</title>
-    <meta
-      name="description"
-      content="Se arrienda lindo apartamento de 193m2 en Colina Campestre - Bogotá. 4 Habitaciones, Estudio, Sala-Comedor, 2 parqueaderos. 3er Piso."
-    />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <!-- Primary Meta Tags -->
+    <title>Apartamento en arriendo - Colina Campestre - Bogotá</title>
+    <meta name="title" content="Apartamento en arriendo - Colina Campestre - Bogotá">
+    <meta name="description" content="Arrendamos lindo apartamento de 193m2. 4 habitaciones, estudio, cocina con alacena, sala-comedor, amplio balcón, 2 parqueaderos. 3er Piso.">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://mondriapto.herokuapp.com/">
+    <meta property="og:title" content="Apartamento en arriendo - Colina Campestre - Bogotá">
+    <meta property="og:description" content="Arrendamos lindo apartamento de 193m2. 4 habitaciones, estudio, cocina con alacena, sala-comedor, amplio balcón, 2 parqueaderos. 3er Piso.">
+    <meta property="og:image" content="https://mondriapto.herokuapp.com/img/apartamento.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://mondriapto.herokuapp.com/">
+    <meta property="twitter:title" content="Apartamento en arriendo - Colina Campestre - Bogotá">
+    <meta property="twitter:description" content="Arrendamos lindo apartamento de 193m2. 4 habitaciones, estudio, cocina con alacena, sala-comedor, amplio balcón, 2 parqueaderos. 3er Piso.">
+    <meta property="twitter:image" content="https://mondriapto.herokuapp.com/img/apartamento.png">
+    
+    <!-- Styles and icons -->
     <link rel="apple-touch-icon" href="apple-touch-icon.png" />
-
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/bootstrap-theme.min.css" />
     <link rel="stylesheet" href="css/fontAwesome.css" />
     <link rel="stylesheet" href="css/light-box.css" />
     <link rel="stylesheet" href="css/owl-carousel.css" />
     <link rel="stylesheet" href="css/templatemo-style.css" />
-
-    <link
-      href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800"
-      rel="stylesheet"
-    />
-
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" />
+    
+    <!-- Scripts -->
     <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
   </head>
 
