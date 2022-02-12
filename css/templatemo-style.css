@@ -767,6 +767,7 @@ nav .active-section span {
   border-width: 12px 20px;
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
+  background-color: inherit;
 }
 .box-video:hover .bt-play {
   transform: scale(1.1);
