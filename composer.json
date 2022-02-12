@@ -1,0 +1,15 @@
+{
+    "name": "kerly/mondrian",
+    "autoload": {
+        "psr-4": {
+            "Kerly\\Mondrian\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kerlyn Marino",
+            "email": "kerlynhans@gmail.com"
+        }
+    ],
+    "require": {}
+}
