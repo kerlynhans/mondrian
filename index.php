@@ -10,6 +10,8 @@
     <title>Apartamento en arriendo - Colina Campestre - Bogotá</title>
     <meta name="title" content="Apartamento en arriendo - Colina Campestre - Bogotá">
     <meta name="description" content="Arrendamos lindo apartamento de 193m2. 4 habitaciones, estudio, cocina con alacena, sala-comedor, amplio balcón, 2 parqueaderos. 3er Piso.">
+    <meta name="keywords" content="Arriendo, Apartamento, Bogotá, Colina Campestre, Amplio, 4 Habitaciones, Cocina con Alacena, Familiar">
+    <meta name="robots" content="index, follow">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -48,7 +50,7 @@
         data-toggle="collapse"
         data-target="#main-nav"
       >
-        <span class="sr-only">Toggle navigation</span>
+        <span class="sr-only">Navegación</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -57,12 +59,11 @@
       <div id="main-nav" class="collapse navbar-collapse">
         <nav>
           <ul class="nav navbar-nav">
-            <li><a href="#top">Home</a></li>
-            <li><a href="#featured">Featured</a></li>
-            <li><a href="#projects">Recent Projects</a></li>
-            <li><a href="#video">Presentation</a></li>
-            <li><a href="#blog">Blog Entries</a></li>
-            <li><a href="#contact">Contact Us</a></li>
+            <li><a href="#top">Inicio</a></li>
+            <li><a href="#featured">Espacios</a></li>
+            <li><a href="#projects">Galería</a></li>
+            <li><a href="#video">Video tour</a></li>
+            <li><a href="#contact">Contáctenos</a></li>
           </ul>
         </nav>
       </div>
@@ -103,13 +104,6 @@
             </a>
           </li>
           <li>
-            <a href="#blog">
-              <span class="rect"></span>
-              <span class="circle"></span>
-              Ubicación
-            </a>
-          </li>
-          <li>
             <a href="#contact">
               <span class="rect"></span>
               <span class="circle"></span>
@@ -145,14 +139,14 @@
             <div class="image"></div>
             <div class="info">
               <div>
-                <h1>Amplio apartamento<br />en Colina Campestre</h1>
+                <h1>Arrendamos apartamento<br />en Colina Campestre</h1>
                 <p>
-                  Arrendamos apartamento de 193m2 con 4 habitaciones más
+                  Es un amplio apartamento de 193 mts2 con 4 habitaciones más
                   estudio.<br />
-                  Ubicado en una de las mejores zonas de Bogotá.
+                  Ideal para una familia numerosa.
                 </p>
                 <div class="white-button button">
-                  <a href="#featured">Discover More</a>
+                  <a href="#featured">Saber Más</a>
                 </div>
               </div>
             </div>
@@ -165,14 +159,14 @@
             <div class="image"></div>
             <div class="info">
               <div>
-                <h1>Please tell <br />your friends</h1>
+                <h2>Está ubicado en una <br />zona estratégica</h2>
                 <p>
-                  Support templatemo by sharing a link to your friends.
-                  <br />Thank you for helping us.
+                  Cerca del Centro Comercial Parque Colina, Exito, Carulla, parques aledaños
+                  <br />y un Centro Médico de Colsánitas.
                 </p>
 
                 <div class="white-button button">
-                  <a href="#featured">Share More</a>
+                  <a href="#featured">Saber Más</a>
                 </div>
               </div>
             </div>
@@ -185,14 +179,13 @@
             <div class="image"></div>
             <div class="info">
               <div>
-                <h1>Suspendisse suscipit<br />nulla sed</h1>
+                <h2>Con espacios diseñados<br />para máxima comodidad</h2>
                 <p>
-                  Vestibulum ante ipsum primis in faucibus orci luctus et
-                  ultrices <br />posuere cubilia Curae; Sed at massa turpis.
+                  También hace parte de un conjunto residencial tipo club house <br />dotado con piscina, gimnasio y un espectacular salón de eventos.
                 </p>
 
                 <div class="white-button button">
-                  <a href="#featured">Learn More</a>
+                  <a href="#featured">Saber Más</a>
                 </div>
               </div>
             </div>
@@ -205,10 +198,9 @@
     <div class="page-content">
       <section id="featured" class="content-section">
         <div class="section-heading">
-          <h1>Featured<br /><em>Places</em></h1>
+          <h2>Conoce sus<br /><em>Espacios</em></h2>
           <p>
-            Praesent pellentesque efficitur magna, <br />sed pellentesque neque
-            malesuada vitae.
+            A continuación descubre todas las comodidades que <br /> encontrarás en este espectacular apartamento.
           </p>
         </div>
         <div class="section-content">
@@ -221,12 +213,10 @@
                 </div>
               </div>
               <div class="text-content">
-                <h4>Lorem ipsum dolor</h4>
-                <span>Proin et sapien</span>
+                <h4>Bienvenido al 2-303</h4>
+                <span>La entrada</span>
                 <p>
-                  #1 You are allowed to use Sentra Template for your business or
-                  client websites. You can use it for commercial or
-                  non-commercial or educational purposes.
+                  Encontrarás una puerta de seguridad con chapa multilock y un amplio pasillo a la entrada con un recibidor flotante. También aquí está el baño social con dispensador de toallitas desechables.
                 </p>
               </div>
             </div>
@@ -238,13 +228,10 @@
                 </div>
               </div>
               <div class="text-content">
-                <h4>Phasellus a lacus ac odio</h4>
-                <span>Maximus</span>
+                <h4>Lo mejor del apartamento</h4>
+                <span>La cocina</span>
                 <p>
-                  #2 You are NOT allowed to re-distribute this on any template
-                  website. You <strong>can post</strong> a screenshot and a link
-                  back to original template page on your blog or site. Thank
-                  you.
+                  Tiene alacena, isla central y cuenta con el espacio suficiente para ubicar un comedor auxiliar, nevecón y refrigerador de ser necesario. Además está equipada con horno de convección, lava-vajillas y asador eléctrico.
                 </p>
               </div>
             </div>
@@ -256,12 +243,10 @@
                 </div>
               </div>
               <div class="text-content">
-                <h4>Proin sit amet fringilla</h4>
-                <span>Vulputate</span>
+                <h4>Si trabajas desde casa</h4>
+                <span>El estudio</span>
                 <p>
-                  #3 Aliquam mollis lacus eget metus efficitur lobortis.
-                  Suspendisse libero lacus, accumsan vitae commodo tristique,
-                  luctus gravida metus.
+                  Hemos adaptado este espacio para tener una oficina en casa. Este espacio cuenta con buena iluminación, escritorio, archivador y puertas adecuadas para no romper con la armonía del hogar.
                 </p>
               </div>
             </div>
@@ -273,12 +258,10 @@
                 </div>
               </div>
               <div class="text-content">
-                <h4>In volutpat augue lectus</h4>
-                <span>Elementum</span>
+                <h4>Un cuarto extra</h4>
+                <span>Habitación de servicio</span>
                 <p>
-                  #4 Aliquam mollis lacus eget metus efficitur lobortis.
-                  Suspendisse libero lacus, accumsan vitae commodo tristique,
-                  luctus gravida metus.
+                  Una familia grande requiere ayuda y de ser necesario, el apartamento cuenta con un cuarto especial con baño independiente y el espacio suficiente para alojar a una persona extra sin incomodidades.
                 </p>
               </div>
             </div>
@@ -290,12 +273,10 @@
                 </div>
               </div>
               <div class="text-content">
-                <h4>Cras commodo odio</h4>
-                <span>Aliquam</span>
+                <h4>La zona social</h4>
+                <span>Sala-Comedor</span>
                 <p>
-                  #5 Mauris lacinia pretium libero, ut tincidunt lacus molestie
-                  ornare. Phasellus a facilisis erat. Praesent eleifend nibh
-                  mauris, quis sodales lorem convallis pulvinar.
+                  Además de un gran espacio para ubicar tu sala y el comedor, aquí encontrarás chimenea y el acceso a un balcón con vidrios de seguridad elevados y vista exterior hacia el parque. Es un espacio ideal para recibir visitas.
                 </p>
               </div>
             </div>
@@ -372,7 +353,7 @@
       </section>
       <section id="projects" class="content-section">
         <div class="section-heading">
-          <h1>Recent<br /><em>Projects</em></h1>
+          <h2>Galería<br /><em>de Fotos</em></h2>
           <p>
             Praesent pellentesque efficitur magna, <br />sed pellentesque neque
             malesuada vitae.
@@ -383,21 +364,21 @@
             <div class="row">
               <div class="item">
                 <div class="col-md-8">
-                  <a href="img/portfolio_big_1.jpg" data-lightbox="image"
+                  <a href="img/pics/IMG_3399.JPG" data-lightbox="image"
                     ><img src="img/portfolio_1.jpg" alt="image 1"
-                  /></a>
-                </div>
-              </div>
-              <div class="item second-item">
-                <div class="col-md-4">
-                  <a href="img/portfolio_big_2.jpg" data-lightbox="image"
-                    ><img src="img/portfolio_2.jpg" alt="image 2"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
-                  <a href="img/portfolio_big_3.jpg" data-lightbox="image"
+                  <a href="img/pics/IMG_3400.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_2.jpg" alt="image 2"
+                  /></a>
+                </div>
+              </div>
+              <div class="item secondary-item">
+                <div class="col-md-4">
+                  <a href="img/pics/IMG_3401.JPG" data-lightbox="image"
                     ><img src="img/portfolio_3.jpg" alt="image 3"
                   /></a>
                 </div>
@@ -416,6 +397,67 @@
                   /></a>
                 </div>
               </div>
+
+              <div class="clearfix" />
+              
+              <div class="item">
+                <div class="col-md-8">
+                  <a href="img/portfolio_big_5.jpg" data-lightbox="image"
+                  ><img src="img/portfolio_5.jpg" alt="image 5"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/portfolio_big_4.jpg" data-lightbox="image"
+                  ><img src="img/portfolio_4.jpg" alt="image 4"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/portfolio_big_2.jpg" data-lightbox="image"
+                  ><img src="img/portfolio_2.jpg" alt="image 2"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/portfolio_big_3.jpg" data-lightbox="image"
+                  ><img src="img/portfolio_3.jpg" alt="image 3"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/portfolio_big_2.jpg" data-lightbox="image"
+                  ><img src="img/portfolio_2.jpg" alt="image 2"
+                  /></a>
+                </div>
+              </div>
+
+
+              <div class="item">
+                <div class="col-md-8">
+                  <a href="img/portfolio_big_1.jpg" data-lightbox="image"
+                    ><img src="img/portfolio_1.jpg" alt="image 1"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/portfolio_big_2.jpg" data-lightbox="image"
+                    ><img src="img/portfolio_2.jpg" alt="image 2"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/portfolio_big_3.jpg" data-lightbox="image"
+                    ><img src="img/portfolio_3.jpg" alt="image 3"
+                  /></a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -424,7 +466,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h1>This is a <em>company</em> presentation.</h1>
+              <h1>Hicimos este <em>video</em> para más detalles.</h1>
               <p>
                 Praesent pellentesque efficitur magna, sed pellentesque neque
                 malesuada vitae.
@@ -438,9 +480,6 @@
                 condimentum aliquet blandit. Fusce rhoncus et eros ut pharetra.
                 Phasellus convallis ultricies ligula ac gravida.
               </p>
-            </div>
-            <div class="accent-button button">
-              <a href="#blog">Continue Reading</a>
             </div>
           </div>
           <div class="col-md-12">
@@ -466,36 +505,10 @@
           </div>
         </div>
       </section>
-      <section id="blog" class="content-section">
-        <div class="section-heading">
-          <h1>Blog<br /><em>Entries</em></h1>
-          <p>
-            Curabitur hendrerit mauris mollis ipsum vulputate rutrum.
-            <br />Phasellus luctus odio eget dui imperdiet.
-          </p>
-        </div>
-
-        <div id="map">
-          <!-- How to change your own map point
-                           1. Go to Google Maps
-                           2. Click on your location point
-                           3. Click "Share" and choose "Embed map" tab
-                           4. Copy only URL and paste it within the src="" field below
-                    -->
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.1873550091213!2d-74.0665974847254!3d4.737487742655356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f850fed13ca8b%3A0x97fda2f6e817160d!2sConjunto%20Residencial%20Mondrian!5e0!3m2!1sen!2sco!4v1644683583232!5m2!1sen!2sco"
-            width="100%"
-            height="400px"
-            frameborder="0"
-            style="border: 0"
-            allowfullscreen
-          ></iframe>
-        </div>
-      </section>
       <section id="contact" class="content-section">
         <div id="contact-content">
           <div class="section-heading">
-            <h1>Contact<br /><em>Sentra</em></h1>
+            <h2>Contact<br /><em>Sentra</em></h2>
             <p>
               Curabitur hendrerit mauris mollis ipsum vulputate rutrum.
               <br />Phasellus luctus odio eget dui imperdiet.

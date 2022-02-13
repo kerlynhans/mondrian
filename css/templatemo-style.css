@@ -16,6 +16,10 @@ p {
   line-height: 24px;
 }
 
+.clearfix {
+  clear: both;
+}
+
 .page-content {
   width: 77.5%;
   float: right;
@@ -42,7 +46,7 @@ p {
   margin-bottom: 60px;
 }
 
-.section-heading h1 {
+.section-heading h2 {
   margin-top: 0px;
   font-size: 32px;
   color: #232323;
@@ -348,11 +352,12 @@ nav .active-section span {
   background-color: rgba(5, 0, 0, 0.5);
 }
 
-.Modern-Slider .info h1 {
+.Modern-Slider .info h1,
+.Modern-Slider .info h2 {
   margin-top: 0px;
   margin-bottom: 15px;
   font-size: 48px;
-  color: #fff;
+  color: #fff !important;
   font-weight: 700;
 }
 
@@ -767,7 +772,6 @@ nav .active-section span {
   border-width: 12px 20px;
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
-  background-color: inherit;
 }
 .box-video:hover .bt-play {
   transform: scale(1.1);
@@ -1031,7 +1035,7 @@ nav .active-section span {
     text-align: center;
     right: 0px;
     padding: 0px 30px;
-    background-color: none;
+    background-color: inherit;
   }
 
   .Modern-Slider .NextArrow {
