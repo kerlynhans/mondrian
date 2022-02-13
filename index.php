@@ -369,20 +369,23 @@
                   /></a>
                 </div>
               </div>
-              <div class="item">
+              <div class="item second-item">
                 <div class="col-md-4">
                   <a href="img/pics/IMG_3400.JPG" data-lightbox="image"
                     ><img src="img/portfolio_2.jpg" alt="image 2"
                   /></a>
                 </div>
               </div>
-              <div class="item secondary-item">
+              <div class="item">
                 <div class="col-md-4">
                   <a href="img/pics/IMG_3401.JPG" data-lightbox="image"
                     ><img src="img/portfolio_3.jpg" alt="image 3"
                   /></a>
                 </div>
               </div>
+              
+              <div class="clearfix" />
+
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/portfolio_big_4.jpg" data-lightbox="image"
