@@ -120,13 +120,7 @@
           <a href="#"><i class="fa fa-twitter"></i></a>
         </li>
         <li>
-          <a href="#"><i class="fa fa-linkedin"></i></a>
-        </li>
-        <li>
-          <a href="#"><i class="fa fa-rss"></i></a>
-        </li>
-        <li>
-          <a href="#"><i class="fa fa-behance"></i></a>
+          <a href="#"><i class="fa fa-whatsapp"></i></a>
         </li>
       </ul>
     </div>
@@ -222,21 +216,6 @@
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_2.jpg" alt="" />
-                <div class="featured-button button">
-                  <a href="#projects">Visita la galería</a>
-                </div>
-              </div>
-              <div class="text-content">
-                <h4>Lo mejor del apartamento</h4>
-                <span>La cocina</span>
-                <p>
-                  Tiene alacena, isla central y cuenta con el espacio suficiente para ubicar un comedor auxiliar, nevecón y refrigerador de ser necesario. Además está equipada con horno de convección, lava-vajillas y asador eléctrico.
-                </p>
-              </div>
-            </div>
-            <div class="item">
-              <div class="image">
                 <img src="img/featured_3.jpg" alt="" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
@@ -252,21 +231,6 @@
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_4.jpg" alt="" />
-                <div class="featured-button button">
-                  <a href="#projects">Visita la galería</a>
-                </div>
-              </div>
-              <div class="text-content">
-                <h4>Un cuarto extra</h4>
-                <span>Habitación de servicio</span>
-                <p>
-                  Una familia grande requiere ayuda y de ser necesario, el apartamento cuenta con un cuarto especial con baño independiente y el espacio suficiente para alojar a una persona extra sin incomodidades.
-                </p>
-              </div>
-            </div>
-            <div class="item">
-              <div class="image">
                 <img src="img/featured_5.jpg" alt="" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
@@ -276,24 +240,37 @@
                 <h4>La zona social</h4>
                 <span>Sala-Comedor</span>
                 <p>
-                  Además de un gran espacio para ubicar tu sala y el comedor, aquí encontrarás chimenea y el acceso a un balcón con vidrios de seguridad elevados y vista exterior hacia el parque. Es un espacio ideal para recibir visitas.
+                  Además de un gran espacio para ubicar tu sala y el comedor, aquí encontrarás chimenea y el acceso a un balcón con vidrios de seguridad elevados (por si hay niños) y vista exterior hacia el parque. Es un espacio ideal para recibir visitas.
                 </p>
               </div>
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_6.jpg" alt="" />
+                <img src="img/featured_7.jpg" alt="" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
               </div>
               <div class="text-content">
-                <h4>Sed at massa turpis</h4>
-                <span>Curabitur</span>
+                <h4>Para los dueños de casa</h4>
+                <span>La habitación principal</span>
                 <p>
-                  #6 Vestibulum tincidunt ornare ligula vel molestie. Curabitur
-                  hendrerit mauris mollis ipsum vulputate rutrum. Phasellus
-                  luctus odio eget dui imperdiet.
+                  Este cuarto cuenta con espacio suficiente para una cama de tamaño King, mesas de noche y un mueble auxiliar. Además cuenta con Walking Closet más closet auxiliar, baño con lavamanos doble y ducha ahorradora con teleducha.
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="image">
+                <img src="img/featured_8.jpg" alt="" />
+                <div class="featured-button button">
+                  <a href="#projects">Visita la galería</a>
+                </div>
+              </div>
+              <div class="text-content">
+                <h4>La otra parte de la familia</h4>
+                <span>Las habitaciones secundarias</span>
+                <p>
+                  Adicional a la principal, hay 2 habitaciones más; amplias y con baño privado, una de ellas con walking closet. También hay adecuada una 3a habitación auxiliar, con el espacio suficiente para un buen cuarto de visitas. Buena iluminación y una linda vista.
                 </p>
               </div>
             </div>
@@ -305,46 +282,55 @@
                 </div>
               </div>
               <div class="text-content">
-                <h4>Aliquam mollis lacus</h4>
-                <span>Suspendisse</span>
+                <h4>Lo mejor del apartamento</h4>
+                <span>La cocina</span>
                 <p>
-                  #7 Suspendisse suscipit nulla sed nisl fermentum, auctor
-                  suscipit nunc rhoncus. Proin faucibus metus diam, nec
-                  hendrerit purus pharetra in.
+                  Tiene alacena, isla central y cuenta con el espacio suficiente para ubicar un comedor auxiliar, nevecón y refrigerador de ser necesario. Además está equipada con horno de convección, lava-vajillas y asador eléctrico.
                 </p>
               </div>
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_1.jpg" alt="" />
+                <img src="img/featured_4.jpg" alt="" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
               </div>
               <div class="text-content">
-                <h4>Mauris lacinia pretium</h4>
-                <span>Vestibulum</span>
+                <h4>Un cuarto extra</h4>
+                <span>Habitación de servicio</span>
                 <p>
-                  #8 Suspendisse suscipit nulla sed nisl fermentum, auctor
-                  suscipit nunc rhoncus. Proin faucibus metus diam, nec
-                  hendrerit purus pharetra in.
+                  Una familia grande requiere ayuda por lo que este apartamento cuenta con un cuarto especial con baño independiente y el espacio suficiente para alojar a una persona extra sin incomodidades.
                 </p>
               </div>
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_3.jpg" alt="" />
+                <img src="img/featured_6.jpg" alt="" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
               </div>
               <div class="text-content">
-                <h4>Proin sit amet fringilla erat</h4>
-                <span>Convallis</span>
+                <h4>Para lavar y planchar</h4>
+                <span>Zona de ropas</span>
                 <p>
-                  #9 Suspendisse suscipit nulla sed nisl fermentum, auctor
-                  suscipit nunc rhoncus. Proin faucibus metus diam, nec
-                  hendrerit purus pharetra in.
+                  Esta zona cuenta con el espacio suficiente para ubicar lavadora y secadora lado a lado, evitando su ubicación 'en torre'. Esto favorece a la iluminación y ventilación. Aquí también encontrarás el calentador de agua con sistema de acumulación a gas. 
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="image">
+                <img src="img/featured_9.jpg" alt="" />
+                <div class="featured-button button">
+                  <a href="#projects">Visita la galería</a>
+                </div>
+              </div>
+              <div class="text-content">
+                <h4>Si tienes carro o moto</h4>
+                <span>Parqueadero doble y depósito</span>
+                <p>
+                  El parqueadero doble con servidumbre de este apartamento tiene una ubicación privilegiada, de fácil entrada y salida. Es parqueadero cubierto y no está en medio de columnas, sino que al contrario, está junto a un pasillo que le otorga una mayor comodidad.
                 </p>
               </div>
             </div>
@@ -406,35 +392,35 @@
               <div class="item">
                 <div class="col-md-8">
                   <a href="img/portfolio_big_5.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_5.jpg" alt="image 5"
+                  ><img src="img/portfolio_6.jpg" alt="image 6"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/portfolio_big_4.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_4.jpg" alt="image 4"
+                  ><img src="img/portfolio_7.jpg" alt="image 7"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/portfolio_big_2.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_2.jpg" alt="image 2"
+                  ><img src="img/portfolio_8.jpg" alt="image 8"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/portfolio_big_3.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_3.jpg" alt="image 3"
+                  ><img src="img/portfolio_9.jpg" alt="image 9"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/portfolio_big_2.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_2.jpg" alt="image 2"
+                  ><img src="img/portfolio_10.jpg" alt="image 10"
                   /></a>
                 </div>
               </div>
@@ -443,21 +429,76 @@
               <div class="item">
                 <div class="col-md-8">
                   <a href="img/portfolio_big_1.jpg" data-lightbox="image"
-                    ><img src="img/portfolio_1.jpg" alt="image 1"
+                    ><img src="img/portfolio_11.jpg" alt="image 11 "
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/portfolio_big_2.jpg" data-lightbox="image"
-                    ><img src="img/portfolio_2.jpg" alt="image 2"
+                    ><img src="img/portfolio_12.jpg" alt="image 12"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/portfolio_big_3.jpg" data-lightbox="image"
-                    ><img src="img/portfolio_3.jpg" alt="image 3"
+                    ><img src="img/portfolio_13.jpg" alt="image 13"
+                  /></a>
+                </div>
+              </div>
+
+              <div class="clearfix" />
+
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/portfolio_big_4.jpg" data-lightbox="image"
+                    ><img src="img/portfolio_15.jpg" alt="image 15"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-8">
+                  <a href="img/portfolio_big_5.jpg" data-lightbox="image"
+                    ><img src="img/portfolio_14.jpg" alt="image 14"
+                  /></a>
+                </div>
+              </div>
+
+              <div class="clearfix" />
+              
+              <div class="item">
+                <div class="col-md-8">
+                  <a href="img/portfolio_big_5.jpg" data-lightbox="image"
+                  ><img src="img/portfolio_16.jpg" alt="image 16"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/portfolio_big_4.jpg" data-lightbox="image"
+                  ><img src="img/portfolio_17.jpg" alt="image 17"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/portfolio_big_2.jpg" data-lightbox="image"
+                  ><img src="img/portfolio_18.jpg" alt="image 18"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/portfolio_big_3.jpg" data-lightbox="image"
+                  ><img src="img/portfolio_19.jpg" alt="image 19"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/portfolio_big_3.jpg" data-lightbox="image"
+                  ><img src="img/portfolio_20.jpg" alt="image 20"
                   /></a>
                 </div>
               </div>
@@ -471,17 +512,12 @@
             <div class="section-heading">
               <h1>Hicimos este <em>video</em> para más detalles.</h1>
               <p>
-                Praesent pellentesque efficitur magna, sed pellentesque neque
-                malesuada vitae.
+                Hazte una idea del espacio donde vivirías con en este recorrido virtual.
               </p>
             </div>
             <div class="text-content">
               <p>
-                In eget ipsum sed lorem vehicula luctus. Curabitur non dolor
-                rhoncus, hendrerit justo sit amet, vestibulum turpis.
-                Pellentesque id auctor tellus, vel ultricies augue. Duis
-                condimentum aliquet blandit. Fusce rhoncus et eros ut pharetra.
-                Phasellus convallis ultricies ligula ac gravida.
+              Arrendamos lindo apartamento de 193m2 ubicado en una de las mejores zonas de Bogotá. El apartamento cuenta con 3 habitaciones con baño independiente, walking closet y lavamanos doble en la principal y walking closet en una de las habitaciones secundarias; estudio, cocina súper equipada con isla central y alacena, sala-comedor con chimenea, amplio balcón, 2 parqueaderos, depósito y cuarto de servicio. Está ubicado en un tercer piso de un lindo conjunto rodeado de parques, centros comerciales y vías de fácil acceso. Informes <a href="tel:+573053606423">3053606423</a>.
               </p>
             </div>
           </div>
@@ -490,7 +526,7 @@
               <div
                 class="bg-video"
                 style="
-                  background-image: url(https://unsplash.imgix.net/photo-1425036458755-dc303a604201?fit=crop&fm=jpg&q=75&w=1000);
+                  background-image: url(img/apartment.png);
                 "
               >
                 <div class="bt-play">Play</div>
@@ -499,7 +535,7 @@
                 <iframe
                   width="100%"
                   height="520"
-                  src="https://www.youtube.com/embed/j-_7Ub-Zkow?rel=0&amp;showinfo=0"
+                  src="https://www.youtube.com/embed/PhBvbUOB4XE?rel=0&amp;showinfo=0"
                   frameborder="0"
                   allowfullscreen="allowfullscreen"
                 ></iframe>
@@ -511,10 +547,10 @@
       <section id="contact" class="content-section">
         <div id="contact-content">
           <div class="section-heading">
-            <h2>Contact<br /><em>Sentra</em></h2>
+            <h2>Contáctanos para<br /><em>más información</em></h2>
             <p>
-              Curabitur hendrerit mauris mollis ipsum vulputate rutrum.
-              <br />Phasellus luctus odio eget dui imperdiet.
+              Si estás interesado o conoces a alguien a quien le pueda interesar.
+              <br />Llámanos o déjanos tus datos y nos estaremos comunicando.
             </p>
           </div>
           <div class="section-content">
@@ -527,7 +563,7 @@
                       type="text"
                       class="form-control"
                       id="name"
-                      placeholder="Your name..."
+                      placeholder="Tu nombre..."
                       required=""
                     />
                   </fieldset>
@@ -539,7 +575,7 @@
                       type="email"
                       class="form-control"
                       id="email"
-                      placeholder="Your email..."
+                      placeholder="Tu email..."
                       required=""
                     />
                   </fieldset>
@@ -551,7 +587,7 @@
                       type="text"
                       class="form-control"
                       id="subject"
-                      placeholder="Subject..."
+                      placeholder="Tu teléfono..."
                       required=""
                     />
                   </fieldset>
@@ -563,7 +599,7 @@
                       rows="6"
                       class="form-control"
                       id="message"
-                      placeholder="Your message..."
+                      placeholder="Deja tu mensaje si tienes alguna pregunta..."
                       required=""
                     ></textarea>
                   </fieldset>
@@ -571,7 +607,7 @@
                 <div class="col-md-12">
                   <fieldset>
                     <button type="submit" id="form-submit" class="btn">
-                      Send Message Now
+                      Enviar el mensaje ahora
                     </button>
                   </fieldset>
                 </div>
@@ -581,7 +617,7 @@
         </div>
       </section>
       <section class="footer">
-        <p>Copyright &copy; 2019 Company Name . Design: TemplateMo</p>
+        <p>Copyright &copy; 2022</p>
       </section>
     </div>
 
