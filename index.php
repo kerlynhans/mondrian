@@ -27,8 +27,7 @@
     <meta property="twitter:description" content="Arrendamos lindo apartamento de 193m2. 4 habitaciones, estudio, cocina con alacena, sala-comedor, amplio balcón, 2 parqueaderos. 3er Piso.">
     <meta property="twitter:image" content="https://mondriapto.herokuapp.com/img/apartamento.png">
     
-    <!-- Styles and icons -->
-    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+    <!-- Styles -->
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/bootstrap-theme.min.css" />
     <link rel="stylesheet" href="css/fontAwesome.css" />
@@ -36,6 +35,25 @@
     <link rel="stylesheet" href="css/owl-carousel.css" />
     <link rel="stylesheet" href="css/templatemo-style.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" />
+    
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <meta name="msapplication-TileImage" content="ms-icon-144x144.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="manifest" href="manifest.json">
     
     <!-- Scripts -->
     <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
@@ -201,7 +219,7 @@
           <div class="owl-carousel owl-theme">
             <div class="item">
               <div class="image">
-                <img src="img/featured_1.jpg" alt="" />
+                <img src="img/featured_1.jpg" alt="La entrada" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
@@ -216,7 +234,7 @@
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_3.jpg" alt="" />
+                <img src="img/featured_3.jpg" alt="El estudio" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
@@ -231,7 +249,7 @@
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_5.jpg" alt="" />
+                <img src="img/featured_5.JPG" alt="La zona social" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
@@ -246,7 +264,7 @@
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_7.jpg" alt="" />
+                <img src="img/featured_7.jpg" alt="La habitación principal" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
@@ -261,7 +279,7 @@
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_8.jpg" alt="" />
+                <img src="img/featured_8.jpg" alt="Las habitaciones secundarias" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
@@ -276,7 +294,7 @@
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_2.jpg" alt="" />
+                <img src="img/featured_2.jpg" alt="La cocina" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
@@ -291,7 +309,7 @@
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_4.jpg" alt="" />
+                <img src="img/featured_4.JPG" alt="Habitación de servicio" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
@@ -306,7 +324,7 @@
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_6.jpg" alt="" />
+                <img src="img/featured_6.JPG" alt="Zona de ropas" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
@@ -321,7 +339,7 @@
             </div>
             <div class="item">
               <div class="image">
-                <img src="img/featured_9.jpg" alt="" />
+                <img src="img/featured_9.jpg" alt="Parqueadero doble y depósito" />
                 <div class="featured-button button">
                   <a href="#projects">Visita la galería</a>
                 </div>
@@ -514,14 +532,14 @@
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/pics/IMG_3407.JPG" data-lightbox="image"
-                    ><img src="img/portfolio_22.jpg" alt="Vista frontal de la segunda habitación auxiliar del apartamento en arriendo"
+                    ><img src="img/portfolio_22.JPG" alt="Vista frontal de la segunda habitación auxiliar del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/pics/IMG_3408.JPG" data-lightbox="image"
-                    ><img src="img/portfolio_23.jpg" alt="Baño de la segunda habitación auxiliar del apartamento en arriendo"
+                    ><img src="img/portfolio_23.JPG" alt="Baño de la segunda habitación auxiliar del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
@@ -531,14 +549,14 @@
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/pics/IMG_3409.JPG" data-lightbox="image"
-                    ><img src="img/portfolio_24.jpg" alt="Primera habitación auxiliar del apartamento en arriendo"
+                    ><img src="img/portfolio_24.JPG" alt="Primera habitación auxiliar del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-8">
                   <a href="img/pics/IMG_3411.JPG" data-lightbox="image"
-                    ><img src="img/portfolio_25.jpg" alt="Primera habitación auxiliar también con walking closet del apartamento en arriendo"
+                    ><img src="img/portfolio_25.JPG" alt="Primera habitación auxiliar también con walking closet del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
@@ -548,14 +566,14 @@
               <div class="item">
                 <div class="col-md-8">
                   <a href="img/pics/IMG_3412.JPG" data-lightbox="image"
-                  ><img src="img/portfolio_26.jpg" alt="Primera habitación auxiliar con walking closet y baño del apartamento en arriendo"
+                  ><img src="img/portfolio_26.JPG" alt="Primera habitación auxiliar con walking closet y baño del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/pics/IMG_3439.JPG" data-lightbox="image"
-                  ><img src="img/portfolio_28.jpg" alt="Baño de la primera habitación auxiliar del apartamento en arriendo"
+                  ><img src="img/portfolio_28.JPG" alt="Baño de la primera habitación auxiliar del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
@@ -563,21 +581,21 @@
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/pics/IMG_3415.JPG" data-lightbox="image"
-                  ><img src="img/portfolio_27.jpg" alt="Closet de linos del apartamento en arriendo"
+                  ><img src="img/portfolio_27.JPG" alt="Closet de linos del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/pics/IMG_3445.JPG" data-lightbox="image"
-                  ><img src="img/portfolio_29.jpg" alt="Parqueadero doble del apartamento en arriendo"
+                  ><img src="img/portfolio_29.JPG" alt="Parqueadero doble del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/pics/IMG_3444.JPG" data-lightbox="image"
-                  ><img src="img/portfolio_30.jpg" alt="Entrada parqueadero del apartamento en arriendo"
+                  ><img src="img/portfolio_30.JPG" alt="Entrada parqueadero del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
@@ -752,10 +770,5 @@
         lastScrollTop = st;
       }
     </script>
-
-    <script
-      src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
-      type="text/javascript"
-    ></script>
   </body>
 </html>
