@@ -132,7 +132,7 @@
       </nav>
       <ul class="social-icons">
         <li>
-          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https://mondriapto.herokuapp.com/" target="_blank"><i class="fa fa-facebook"></i></a>
         </li>
         <li>
           <a href="#"><i class="fa fa-twitter"></i></a>
@@ -614,7 +614,7 @@
             </div>
             <div class="text-content">
               <p>
-              Arrendamos lindo apartamento de 193m2 ubicado en una de las mejores zonas de Bogotá. El apartamento cuenta con 3 habitaciones con baño independiente, walking closet y lavamanos doble en la principal y walking closet en una de las habitaciones secundarias; estudio, cocina súper equipada con isla central y alacena, sala-comedor con chimenea, amplio balcón, 2 parqueaderos, depósito y cuarto de servicio. Está ubicado en un tercer piso de un lindo conjunto rodeado de parques, centros comerciales y vías de fácil acceso. Informes <a href="tel:+573053606423">3053606423</a>.
+              Arrendamos lindo apartamento de 193m2 ubicado en una de las mejores zonas de Bogotá. El apartamento cuenta con 3 habitaciones con baño independiente, walking closet y lavamanos doble en la principal y walking closet en una de las habitaciones secundarias; estudio, cocina súper equipada con isla central y alacena, sala-comedor con chimenea, amplio balcón, 2 parqueaderos, depósito y cuarto de servicio. Está ubicado en un tercer piso de un lindo conjunto rodeado de parques, centros comerciales y vías de fácil acceso. Informes <a href="tel:+573208422866">320 8422866</a>.
               </p>
             </div>
           </div>
@@ -647,7 +647,7 @@
             <h2>Contáctanos para<br /><em>más información</em></h2>
             <p>
               Si estás interesado o conoces a alguien a quien le pueda interesar.
-              <br />Llámanos o déjanos tus datos y nos estaremos comunicando.
+              <br />Llámanos al <a href="tel:+573208422866">320 8422866</a> o déjanos tus datos y nos estaremos comunicando.
             </p>
           </div>
           <div class="section-content">
