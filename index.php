@@ -350,77 +350,155 @@
             <div class="row">
               <div class="item">
                 <div class="col-md-8">
-                  <a href="img/pics/IMG_3399.JPG" data-lightbox="image"
-                    ><img src="img/portfolio_1.jpg" alt="image 1"
+                  <a href="img/pics/IMG_3425.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_1.jpg" alt="Vista de la entrada para el apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item second-item">
                 <div class="col-md-4">
+                  <a href="img/pics/IMG_3424.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_2.jpg" alt="Vista interior del estudio para el apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/pics/IMG_3423.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_3.jpg" alt="Vista frontal del estudio para el apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+              
+              <div class="clearfix" />
+
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/pics/IMG_3422.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_4.jpg" alt="Estudio auxiliar ubicado en balcón para el apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-8">
+                  <a href="img/pics/IMG_3419.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_5.jpg" alt="Entrada y estudio del apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+
+              <div class="clearfix" />
+              
+              <div class="item">
+                <div class="col-md-8">
+                  <a href="img/pics/IMG_3420.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_6.jpg" alt="Entrada a la sala del apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/pics/IMG_3416.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_7.jpg" alt="Sala-comedor del apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/pics/IMG_3427.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_8.jpg" alt="Cocina del apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/pics/IMG_3428.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_9.jpg" alt="Vista de la cocina con alacena del apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/pics/IMG_3434.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_10.jpg" alt="Zona de ropas con calentador de paso y acumulación del apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+
+
+              <div class="item">
+                <div class="col-md-8">
+                  <a href="img/pics/IMG_3435.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_11.jpg" alt="Espacio auxiliar para refrigerador en el apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/pics/IMG_3432.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_12.jpg" alt="Habitación de servicio del apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/pics/IMG_3433.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_13.jpg" alt="Baño de la habitación de servicio del apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+
+              <div class="clearfix" />
+
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/pics/IMG_3403.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_15.jpg" alt="Habitación principal del apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-md-8">
+                  <a href="img/pics/IMG_3399.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_14.jpg" alt="Vista frontal de la habitación principal del apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+
+              <div class="clearfix" />
+              
+              <div class="item">
+                <div class="col-md-8">
                   <a href="img/pics/IMG_3400.JPG" data-lightbox="image"
-                    ><img src="img/portfolio_2.jpg" alt="image 2"
+                  ><img src="img/portfolio_16.jpg" alt="Walking closet principal del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
                   <a href="img/pics/IMG_3401.JPG" data-lightbox="image"
-                    ><img src="img/portfolio_3.jpg" alt="image 3"
-                  /></a>
-                </div>
-              </div>
-              
-              <div class="clearfix" />
-
-              <div class="item">
-                <div class="col-md-4">
-                  <a href="img/portfolio_big_4.jpg" data-lightbox="image"
-                    ><img src="img/portfolio_4.jpg" alt="image 4"
-                  /></a>
-                </div>
-              </div>
-              <div class="item">
-                <div class="col-md-8">
-                  <a href="img/portfolio_big_5.jpg" data-lightbox="image"
-                    ><img src="img/portfolio_5.jpg" alt="image 5"
-                  /></a>
-                </div>
-              </div>
-
-              <div class="clearfix" />
-              
-              <div class="item">
-                <div class="col-md-8">
-                  <a href="img/portfolio_big_5.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_6.jpg" alt="image 6"
+                  ><img src="img/portfolio_17.jpg" alt="Lavamanos doble en el baño principal del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
-                  <a href="img/portfolio_big_4.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_7.jpg" alt="image 7"
+                  <a href="img/pics/IMG_3402.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_18.jpg" alt="Ducha del baño principal en el apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
-                  <a href="img/portfolio_big_2.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_8.jpg" alt="image 8"
+                  <a href="img/pics/IMG_3404.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_19.jpg" alt="Cuarta habitación en el apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
-                  <a href="img/portfolio_big_3.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_9.jpg" alt="image 9"
-                  /></a>
-                </div>
-              </div>
-              <div class="item">
-                <div class="col-md-4">
-                  <a href="img/portfolio_big_2.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_10.jpg" alt="image 10"
+                  <a href="img/pics/IMG_3405.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_20.jpg" alt="Vista frontal cuarta habitación en el apartamento en arriendo"
                   /></a>
                 </div>
               </div>
@@ -428,22 +506,22 @@
 
               <div class="item">
                 <div class="col-md-8">
-                  <a href="img/portfolio_big_1.jpg" data-lightbox="image"
-                    ><img src="img/portfolio_11.jpg" alt="image 11 "
+                  <a href="img/pics/IMG_3406.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_21.jpg" alt="Segunda habitación auxiliar del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
-                  <a href="img/portfolio_big_2.jpg" data-lightbox="image"
-                    ><img src="img/portfolio_12.jpg" alt="image 12"
+                  <a href="img/pics/IMG_3407.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_22.jpg" alt="Vista frontal de la segunda habitación auxiliar del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
-                  <a href="img/portfolio_big_3.jpg" data-lightbox="image"
-                    ><img src="img/portfolio_13.jpg" alt="image 13"
+                  <a href="img/pics/IMG_3408.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_23.jpg" alt="Baño de la segunda habitación auxiliar del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
@@ -452,15 +530,15 @@
 
               <div class="item">
                 <div class="col-md-4">
-                  <a href="img/portfolio_big_4.jpg" data-lightbox="image"
-                    ><img src="img/portfolio_15.jpg" alt="image 15"
+                  <a href="img/pics/IMG_3409.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_24.jpg" alt="Primera habitación auxiliar del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-8">
-                  <a href="img/portfolio_big_5.jpg" data-lightbox="image"
-                    ><img src="img/portfolio_14.jpg" alt="image 14"
+                  <a href="img/pics/IMG_3411.JPG" data-lightbox="image"
+                    ><img src="img/portfolio_25.jpg" alt="Primera habitación auxiliar también con walking closet del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
@@ -469,36 +547,37 @@
               
               <div class="item">
                 <div class="col-md-8">
-                  <a href="img/portfolio_big_5.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_16.jpg" alt="image 16"
+                  <a href="img/pics/IMG_3412.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_26.jpg" alt="Primera habitación auxiliar con walking closet y baño del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
-                  <a href="img/portfolio_big_4.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_17.jpg" alt="image 17"
+                  <a href="img/pics/IMG_3439.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_28.jpg" alt="Baño de la primera habitación auxiliar del apartamento en arriendo"
+                  /></a>
+                </div>
+              </div>
+
+              <div class="item">
+                <div class="col-md-4">
+                  <a href="img/pics/IMG_3415.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_27.jpg" alt="Closet de linos del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
-                  <a href="img/portfolio_big_2.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_18.jpg" alt="image 18"
+                  <a href="img/pics/IMG_3445.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_29.jpg" alt="Parqueadero doble del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
               <div class="item">
                 <div class="col-md-4">
-                  <a href="img/portfolio_big_3.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_19.jpg" alt="image 19"
-                  /></a>
-                </div>
-              </div>
-              <div class="item">
-                <div class="col-md-4">
-                  <a href="img/portfolio_big_3.jpg" data-lightbox="image"
-                  ><img src="img/portfolio_20.jpg" alt="image 20"
+                  <a href="img/pics/IMG_3444.JPG" data-lightbox="image"
+                  ><img src="img/portfolio_30.jpg" alt="Entrada parqueadero del apartamento en arriendo"
                   /></a>
                 </div>
               </div>
