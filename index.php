@@ -135,10 +135,10 @@
           <a href="https://www.facebook.com/sharer/sharer.php?u=https://mondriapto.herokuapp.com/" target="_blank"><i class="fa fa-facebook"></i></a>
         </li>
         <li>
-          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="https://twitter.com/intent/tweet?url=https://mondriapto.herokuapp.com/" target="_blank"><i class="fa fa-twitter"></i></a>
         </li>
         <li>
-          <a href="#"><i class="fa fa-whatsapp"></i></a>
+          <a href="whatsapp://send?text=Mira este apartamento en arriendo en colina campestre" data-action="share/whatsapp/share" target="_blank"><i class="fa fa-whatsapp"></i></a>
         </li>
       </ul>
     </div>
@@ -647,7 +647,7 @@
             <h2>Contáctanos para<br /><em>más información</em></h2>
             <p>
               Si estás interesado o conoces a alguien a quien le pueda interesar.
-              <br />Llámanos al <a href="tel:+573208422866">320 8422866</a> o déjanos tus datos y nos estaremos comunicando.
+              <br />Llámanos o escíbenos a whatsapp al <a href="tel:+573208422866">320 8422866</a>. También puedes escribirnos aquí abajo.
             </p>
           </div>
           <div class="section-content">
