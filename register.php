@@ -1,4 +1,6 @@
 <?php
+    require "vendor/autoload.php";
+
     $name = $_POST["name"];
     $email = $_POST["email"];
     $phone = $_POST["phone"];
@@ -13,8 +15,6 @@
     
     //Validation
     if($name && $email && $phone && $message){
-        $response["message"] = "No se puede enviar el email";
-
         //Format message
         $msg  = "Nombre: $name\n";
         $msg .= "Email: $email\n";
@@ -22,12 +22,20 @@
         $msg .= "Mensaje: $message\n";
 
         //Send mail
-        $success = @mail("kerlynhans@gmail.com","Arriendo apto Mondrián",$msg);
-        if($success){
+        $oEmail = new \SendGrid\Mail\Mail();
+        $oEmail->setSubject("Arriendo apto Mondrián");
+        $oEmail->addTo("kerlynhans@gmail.com");
+        $oEmail->addContent("text/plain", $msg);
+
+        $sendgrid = new \SendGrid(getenv("SENDGRID_API_KEY"));
+        try{
+            $response = $sendgrid->send($oEmail);
             $status = "200";
             $response["result"] = "success";
             $response["message"] = "ok";
-        }
+        }catch(Exception $e){
+            $response["message"] = $e->getMessage();
+        }  
     }
 
     //Output response

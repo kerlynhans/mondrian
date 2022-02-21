@@ -11,5 +11,7 @@
             "email": "kerlynhans@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "sendgrid/sendgrid": "~7"
+    }
 }
