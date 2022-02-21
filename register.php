@@ -30,6 +30,7 @@
         
         //Send mail
         $oEmail = new \SendGrid\Mail\Mail();
+        $oEmail->setFrom("kerlynhans@gmail.com");
         $oEmail->setSubject("Arriendo apto Mondrián");
         $oEmail->addTo("kerlynhans@gmail.com");
         $oEmail->addContent("text/plain", $msg);
