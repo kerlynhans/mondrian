@@ -12,6 +12,7 @@
         }
     ],
     "require": {
-        "sendgrid/sendgrid": "~7"
+        "sendgrid/sendgrid": "~7",
+        "firephp/firephp-core": "^0.5.3"
     }
 }
