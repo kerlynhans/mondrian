@@ -36,11 +36,12 @@
         try{
             $result = $sendgrid->send($oEmail);
             $firephp->fb($result);
+
             $status = "200";
             $response["result"] = "success";
             $response["message"] = "ok";
-            $firephp->fb("Step 6");
         }catch(Exception $e){
+            $firephp->fb($e);
             $response["message"] = $e->getMessage();
         }  
     }

@@ -652,6 +652,7 @@
           </div>
           <div class="section-content">
             <form id="contact" action="#" method="post">
+              <p class="success">Tu mensaje ha sido enviado</p>
               <div class="row">
                 <div class="col-md-4">
                   <fieldset>
@@ -706,9 +707,6 @@
                       Enviar el mensaje ahora
                     </button>
                   </fieldset>
-                </div>
-                <div class="col-md-12">
-                  <p class="success">Tu mensaje ha sido enviado</p>
                 </div>
               </div>
             </form>
