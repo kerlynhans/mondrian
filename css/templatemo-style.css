@@ -1051,8 +1051,7 @@ nav .active-section span {
   .Modern-Slider .info {
     text-align: center;
     right: 0px;
-    padding: 0px 30px;
-    background-color: inherit;
+    padding: 30px 30px;
   }
 
   .Modern-Slider .NextArrow {
