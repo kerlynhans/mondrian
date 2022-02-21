@@ -647,7 +647,7 @@
             <h2>Contáctanos para<br /><em>más información</em></h2>
             <p>
               Si estás interesado o conoces a alguien a quien le pueda interesar.
-              <br /><a href="tel:3208422866" target="_blank">Llámanos <i class="fa fa-phone"></i></a> o escíbenos a <a href="https://api.whatsapp.com/send?phone=3208422866" target="_blank">whatsapp <i class="fa fa-whatsapp"></i></a> al 320 8422866. También puedes escribirnos aquí abajo.
+              <br /><a href="tel:3208422866" target="_blank">Llámanos <i class="fa fa-phone"></i></a> o escíbenos a <a href="https://api.whatsapp.com/send?phone=+573208422866" target="_blank">whatsapp <i class="fa fa-whatsapp"></i></a> al 320 8422866. También puedes escribirnos aquí abajo.
             </p>
           </div>
           <div class="section-content">
