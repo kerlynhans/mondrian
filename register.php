@@ -39,7 +39,11 @@
         
         $firephp->fb("Step 5");
         try{
-            $response = $sendgrid->send($oEmail);
+            $result = $sendgrid->send($oEmail);
+            
+            $firephp->fb($result);
+
+
             $status = "200";
             $response["result"] = "success";
             $response["message"] = "ok";
