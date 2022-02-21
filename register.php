@@ -3,7 +3,6 @@
     
     //Logger
     $firephp = \FirePHP::getInstance(true);
-    $firephp->fb("Step 1");
     
     $name = $_POST["name"];
     $email = $_POST["email"];
@@ -11,7 +10,6 @@
     $message = $_POST["message"];
     
     //Default response
-    $firephp->fb("Step 2");
     $status = "400";
     $response = array(
         "result" => "error", 
@@ -26,25 +24,18 @@
         $msg .= "Teléfono: $phone\n";
         $msg .= "Mensaje: $message\n";
         
-        $firephp->fb("Step 3");
-        
         //Send mail
         $oEmail = new \SendGrid\Mail\Mail();
-        $oEmail->setFrom("kerlyn@uzer.co");
+        $oEmail->setFrom("kerlyn@uzer.co", "Contacto Arriendo Mondrian");
         $oEmail->setSubject("Arriendo apto Mondrián");
         $oEmail->addTo("kerlynhans@gmail.com");
         $oEmail->addContent("text/plain", $msg);
-        
-        $firephp->fb("Step 4");
+
+        //Setup sendgrid
         $sendgrid = new \SendGrid(getenv("SENDGRID_API_KEY"));
-        
-        $firephp->fb("Step 5");
         try{
             $result = $sendgrid->send($oEmail);
-            
             $firephp->fb($result);
-
-
             $status = "200";
             $response["result"] = "success";
             $response["message"] = "ok";
