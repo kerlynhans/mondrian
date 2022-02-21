@@ -15,17 +15,17 @@
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://mondriapto.herokuapp.com/">
+    <meta property="og:url" content="http://www.arriendoapartamento.info/">
     <meta property="og:title" content="Apartamento en arriendo - Colina Campestre - Bogotá">
     <meta property="og:description" content="Arrendamos lindo apartamento de 193m2. 4 habitaciones, estudio, cocina con alacena, sala-comedor, amplio balcón, 2 parqueaderos. 3er Piso.">
-    <meta property="og:image" content="https://mondriapto.herokuapp.com/img/apartamento.png">
+    <meta property="og:image" content="http://www.arriendoapartamento.info/img/apartamento.png">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://mondriapto.herokuapp.com/">
+    <meta property="twitter:url" content="http://www.arriendoapartamento.info/">
     <meta property="twitter:title" content="Apartamento en arriendo - Colina Campestre - Bogotá">
     <meta property="twitter:description" content="Arrendamos lindo apartamento de 193m2. 4 habitaciones, estudio, cocina con alacena, sala-comedor, amplio balcón, 2 parqueaderos. 3er Piso.">
-    <meta property="twitter:image" content="https://mondriapto.herokuapp.com/img/apartamento.png">
+    <meta property="twitter:image" content="http://www.arriendoapartamento.info/img/apartamento.png">
     
     <!-- Styles -->
     <link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -132,13 +132,13 @@
       </nav>
       <ul class="social-icons">
         <li>
-          <a href="https://www.facebook.com/sharer/sharer.php?u=https://mondriapto.herokuapp.com/" target="_blank"><i class="fa fa-facebook"></i></a>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.arriendoapartamento.info/" target="_blank"><i class="fa fa-facebook"></i></a>
         </li>
         <li>
-          <a href="https://twitter.com/intent/tweet?url=https://mondriapto.herokuapp.com/" target="_blank"><i class="fa fa-twitter"></i></a>
+          <a href="https://twitter.com/intent/tweet?url=http://www.arriendoapartamento.info/" target="_blank"><i class="fa fa-twitter"></i></a>
         </li>
         <li>
-          <a href="whatsapp://send?text=Mira este apartamento en arriendo en colina campestre" data-action="share/whatsapp/share" target="_blank"><i class="fa fa-whatsapp"></i></a>
+          <a href="https://api.whatsapp.com/send?phone=3208422866" target="_blank"><i class="fa fa-whatsapp"></i></a>
         </li>
       </ul>
     </div>
