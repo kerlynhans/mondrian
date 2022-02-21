@@ -908,7 +908,7 @@ nav .active-section span {
 
 /* Contact Style */
 
-#contact {
+#contacto {
   padding-top: 0px;
 }
 
@@ -969,6 +969,23 @@ nav .active-section span {
 #contact button:hover {
   color: #232323;
   background-color: #f4f4f4;
+}
+
+#contact em.failed {
+  color: red;
+  position: absolute;
+  left: 15px;
+  bottom: 0.75em;
+  font-size: 0.8em;
+}
+
+#contact .success {
+  border: 1px dashed green;
+  color: green;
+  background-color: aquamarine;
+  padding: 0.5em;
+  margin-top: 25px;
+  display: none;
 }
 
 /* Footer Style */

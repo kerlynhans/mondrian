@@ -81,7 +81,7 @@
             <li><a href="#featured">Espacios</a></li>
             <li><a href="#projects">Galería</a></li>
             <li><a href="#video">Video tour</a></li>
-            <li><a href="#contact">Contáctenos</a></li>
+            <li><a href="#contacto">Contáctenos</a></li>
           </ul>
         </nav>
       </div>
@@ -623,7 +623,7 @@
               <div
                 class="bg-video"
                 style="
-                  background-image: url(img/apartment.png);
+                  background-image: url(img/apartamento.png);
                 "
               >
                 <div class="bt-play">Play</div>
@@ -641,7 +641,7 @@
           </div>
         </div>
       </section>
-      <section id="contact" class="content-section">
+      <section id="contacto" class="content-section">
         <div id="contact-content">
           <div class="section-heading">
             <h2>Contáctanos para<br /><em>más información</em></h2>
@@ -660,8 +660,8 @@
                       type="text"
                       class="form-control"
                       id="name"
+                      maxlength="100"
                       placeholder="Tu nombre..."
-                      required=""
                     />
                   </fieldset>
                 </div>
@@ -669,23 +669,23 @@
                   <fieldset>
                     <input
                       name="email"
-                      type="email"
+                      type="text"
                       class="form-control"
                       id="email"
+                      maxlength="100"
                       placeholder="Tu email..."
-                      required=""
                     />
                   </fieldset>
                 </div>
                 <div class="col-md-4">
                   <fieldset>
                     <input
-                      name="subject"
+                      name="phone"
                       type="text"
                       class="form-control"
-                      id="subject"
+                      id="phone"
+                      maxlength="10"
                       placeholder="Tu teléfono..."
-                      required=""
                     />
                   </fieldset>
                 </div>
@@ -697,7 +697,6 @@
                       class="form-control"
                       id="message"
                       placeholder="Deja tu mensaje si tienes alguna pregunta..."
-                      required=""
                     ></textarea>
                   </fieldset>
                 </div>
@@ -707,6 +706,9 @@
                       Enviar el mensaje ahora
                     </button>
                   </fieldset>
+                </div>
+                <div class="col-md-12">
+                  <p class="success">Tu mensaje ha sido enviado</p>
                 </div>
               </div>
             </form>
@@ -719,6 +721,7 @@
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6LcAlY0eAAAAAN8ZFbWAzOSiogj4GDKMVXr9hWML"></script>
     <script>
       window.jQuery ||
         document.write(
@@ -729,6 +732,8 @@
     <script src="js/vendor/bootstrap.min.js"></script>
 
     <script src="js/plugins.js"></script>
+    <script src="js/libs/jquery.alphanumeric.pack.js"></script>
+    <script src="js/libs/jquery.validate.min.js"></script>
     <script src="js/main.js"></script>
 
     <script>
